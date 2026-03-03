@@ -3,7 +3,7 @@
 🎓 Computer Science Student & Frontend Developer.☕
 
    🔥 Projects
-- [Portfolio Website]( https://samri2197.github.io/my-portfolio/)  
+- Small Apps  
 - [Samra Cafe Website](https://samri2197.github.io/Cafe-web/)  
 
    💻 Skills
