@@ -1,4 +1,22 @@
-## Hi there 👋
+ Hi 👋 I'm Samrawit Solomon
+
+🎓 Computer Science Student & Frontend Developer.☕
+
+   🔥 Projects
+- [Portfolio Website]( https://samri2197.github.io/my-portfolio/)  
+- [Samra Cafe Website](https://samri2197.github.io/Cafe-web/)  
+
+   💻 Skills
+- HTML | CSS | JavaScript   
+- Responsive Web Design  
+
+   📫 Contact Me
+- Email: samriyo2023@gmail.com  
+- LinkedIn: https://linkedin.com/in/Samrawit Solomon 
+- GitHub: https://github.com/samri2197
+
+   📈 GitHub Stats
+![Samrawit’s GitHub stats](https://github-readme-stats.vercel.app/api?samri2197=samri2197&show_icons=true&theme=radical)
 
 <!--
 **samri2197/samri2197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
