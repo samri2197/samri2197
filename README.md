@@ -3,7 +3,8 @@
 🎓 Computer Science Student & Frontend Developer.☕
 
    🔥 Projects
-- Small Apps  
+- [small snake Game](https://samri2197.github.io/Snake-Game/)  
+- [to do list](https://samri2197.github.io/Student-todo/)
 - [Samra Cafe Website](https://samri2197.github.io/Cafe-web/)  
 
    💻 Skills
